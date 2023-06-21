@@ -1,0 +1,208 @@
+@media (min-width: 768px) {
+  .backgroundimages {
+    height: 380px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 767px) {
+  .backgroundimages {
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 1500px) {
+  .backgroundimages {
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 980px) {
+  .car {
+    height: 100%!important;
+    padding-left: 0%!important;
+    padding-right: 0%!important;
+  }
+}
+
+#carhead {
+  position: absolute;
+}
+
+.social {
+}
+
+.social:hover {
+  color: rgb(55,99,244);
+}
+
+@media (min-width: 1410px) {
+  #car {
+    height: 500px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #car {
+    height: 70%!important;
+  }
+}
+
+@media (max-width: 992px) {
+  .carheadd {
+    margin-top: 18%;
+    margin-left: 10%;
+    font-size: 47px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (min-width: 995px) {
+  .carheadd {
+    margin-top: 18%;
+    margin-left: 12%;
+    font-size: 60px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (max-width: 768px) {
+  .carheadd {
+    margin-top: 15%;
+    margin-left: 12%;
+    font-size: 40px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (max-width: 580px) {
+  .carheadd {
+    margin-top: 12%;
+    margin-left: 12%;
+    font-size: 30px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (max-width: 400px) {
+  .carheadd {
+    margin-top: 12%;
+    margin-left: 12%;
+    font-size: 20px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (max-width: 574px) {
+  .carheadd1 {
+    margin-top: 12%;
+    margin-left: 12%;
+    font-size: 19px;
+    width: 50%;
+    color: rgb(255,255,255);
+  }
+}
+
+.slide3 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.slide2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .logo {
+    margin: 2px!important;
+    width: 20%;
+  }
+}
+
+@media (max-width: 575px) {
+  .clients {
+    padding-top: 3px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .div1 {
+    margin-top: 10px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+  }
+}
+
+@media (max-width: 576px) {
+  .mobpara {
+    font-size: 15px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  .imagess {
+    overflow-x: hidden;
+    width: 100%!important;
+  }
+}
+
+.log1 {
+  margin-right: 20px!important;
+}
+
+@media (max-width: 560px) {
+  .marg {
+    padding-top: 0px!important;
+  }
+}
+
+html {
+  overflow-x: hidden;
+}
+
+@media (max-width: 560px) {
+  .marg1 {
+    margin-bottom: 0px!important;
+  }
+}
+
+@media (max-width: 750px) {
+  .headdd {
+    font-size: 50px!important;
+  }
+}
+
+@media (min-width: 995px) {
+  .slide3 {
+    width: 60%;
+  }
+}
+
+@media (min-width: 995px) {
+  .slide2 {
+    width: 50%;
+  }
+}
+
+#mainNav {
+  /*overflow-x: hidden;*/
+  position: webkit-sticky!important;
+}
+
